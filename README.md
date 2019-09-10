@@ -1,4 +1,6 @@
-# linkedin
+# Rebuild my linkedin home page with vuejs and tailwindcss 
+
+https://nvme.github.io/tailwind_linkedin/index.html
 
 ## Project setup
 ```
