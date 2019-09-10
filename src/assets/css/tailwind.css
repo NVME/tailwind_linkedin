@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.border-grey-darkest {
+    border-color: #1a1a1a;
+  }
+  
+  .border-grey-darker {
+    border-color: #676767;
+  }
+  
+  .border-grey-dark {
+    border-color: #8795a1;
+  }
+  
+  .border-grey {
+    border-color: #b4b4b4;
+  }
+  
+  .border-grey-light {
+    border-color: #666;
+  }
+  
+  .border-grey-lighter {
+    border-color: #e1e9ee;
+  }
+  
+  .border-grey-lightest {
+    border-color: #f5f5f5;
+  }
+  .bg-grey-lightest {
+   background-color: #f5f5f5;
+  }
+
+.bg-linkedin-blue {
+    background-color: #283e4a
+}
+.h-logo {
+    height: 34px !important;    
+}
+.w-logo{
+    width: 34px !important;
+}
+.px-28 {
+    padding-left: 7rem;
+  padding-right: 7rem;
+}
+.h-14{
+    height: 3.5rem;
+}  
+.pl-14{
+    padding-left: 3.5rem;
+}  
