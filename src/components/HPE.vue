@@ -4,7 +4,7 @@
     <div>
       <div class="flex justify-between px-2">
         <actor
-           pic="https://media.licdn.com/dms/image/C4D0BAQEzfzd-1PYMuA/company-logo_100_100/0?e=1576108800&v=beta&t=HCe603Tm7BpjRnNg5hdKY6oD1uog9YskweI13UBuAwo"
+           pic="https://media-exp1.licdn.com/dms/image/C4D0BAQEzfzd-1PYMuA/company-logo_100_100/0?e=1594252800&v=beta&t=NIviEapk_bfBD4vs5JaFT66QNex2CmDz1DOH_lf9nHg"
            name="Hewlett Packard Enterprise"
            followers="2,950,380" 
            time="2d"
@@ -19,7 +19,7 @@
         <span class="text-blue-600 font-semibold"> #F1 </span> Mercedes-AMG Petronas Motorsport will fuel the right decisions with big data. Learn about technology at high speed: 
         <a href="#" class="text-blue-600 hover:underline font-semibold">http://hpe.to/6008EfKS0</a>
         </p>
-       <img src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=pj&hash=rnIVMKCHiB57NOmKm3TGvbJC7yg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpfsTdKuGnpUAWKy8EjQA2Lbu1SDHlQ47vf4zsddl02sK3cpD5agYUbhl4j3lK6w&shareType=image" height="314.13612565445027" width="600">
+       <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHlBz8e8jaGcg/feedshare-shrink_800/0?e=1589414400&v=beta&t=c-L68OeFTjp6q3jLMCjngMmoAA056ltSvzsW0SO6r0g" height="314.13612565445027" width="600">
       </div>
     </div>
     <comment vote="216" comments="32"/>

@@ -3,7 +3,7 @@
     <div>
       <div class="flex justify-between px-2">
         <actor
-          pic="https://media.licdn.com/dms/image/C560BAQHIfx8v77vIVg/company-logo_100_100/0?e=1576108800&v=beta&t=7eGakz_Big-H9UcU5fgIs4eRWVP-vHzwhjhs3hkbSAA"
+          pic="https://media-exp1.licdn.com/dms/image/C560BAQHIfx8v77vIVg/company-logo_100_100/0?e=1594252800&v=beta&t=6HiNPLO_Z9oZ0NAvrwdvyQUf3Ui8pWgm1z8o4rO1MI8"
           name="HP"
           followers="3,264,857"
           time="3m"

@@ -15,7 +15,7 @@
     <div>
       <div class="flex justify-between px-2">
         <actor
-          pic="https://media.licdn.com/dms/image/C4E0BAQFs5HVdyuXuww/company-logo_100_100/0?e=1576108800&amp;v=beta&amp;t=9Qm2manxCiefXQtvBygXMMzye6zELB-yMzEBCHV2Dv4"
+          pic="https://media-exp1.licdn.com/dms/image/C4E0BAQFs5HVdyuXuww/company-logo_100_100/0?e=1594252800&v=beta&t=kFVvKHEYVMMAJp2ez-CyvdKoUcr4yOy8BcPnjWGojVo"
           name="DXC Technology"
           followers="869,796"
           time="3d"

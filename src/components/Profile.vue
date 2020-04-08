@@ -12,7 +12,7 @@
           <img
             class="rounded-full h-16 w-16 border-2 border-white"
             alt="Yalin Lu"
-            src="https://media.licdn.com/dms/image/C5603AQH13IPxsujwTQ/profile-displayphoto-shrink_100_100/0?e=1573689600&amp;v=beta&amp;t=pYBU1eoVB1aA5MBedhkOPA1UI9b_piyVFWW7ty6rBrw"
+            src="https://media-exp1.licdn.com/dms/image/C5603AQH13IPxsujwTQ/profile-displayphoto-shrink_100_100/0?e=1591833600&v=beta&t=uTnb5m7FgSSHQtR76GJ7VphvFDGk2MlWGbX_83pMXdE"
           />
         </a>
       </div>
