@@ -19,7 +19,7 @@
         <span class="text-blue-600 font-semibold"> #F1 </span> Mercedes-AMG Petronas Motorsport will fuel the right decisions with big data. Learn about technology at high speed: 
         <a href="#" class="text-blue-600 hover:underline font-semibold">http://hpe.to/6008EfKS0</a>
         </p>
-       <img src="https://media-exp1.licdn.com/dms/image/C4D22AQHlBz8e8jaGcg/feedshare-shrink_800/0?e=1589414400&v=beta&t=c-L68OeFTjp6q3jLMCjngMmoAA056ltSvzsW0SO6r0g" height="314.13612565445027" width="600">
+       <img src="https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&f=pj&hash=rnIVMKCHiB57NOmKm3TGvbJC7yg%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6jnhodx1Ey9KGTqAGj6E5DQJHUA3L0CHH05IbfPWjpfsTdKuGnpUAWKy8EjQA2Lbu1SDHlQ47vf4zsddl02sK3cpD5agYUbhl4j3lK6w&shareType=image" height="314.13612565445027" width="600">
       </div>
     </div>
     <comment vote="216" comments="32"/>
